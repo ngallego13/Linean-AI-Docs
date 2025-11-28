@@ -60,7 +60,7 @@ As it stands, no one model is 'perfect' (some are better at writing, reasoning, 
 
 - [Claude Code Course](https://learn.deeplearning.ai/courses/claude-code-a-highly-agentic-coding-assistant/) — DeepLearning.AI comprehensive training <-- Highly Recommend!!!
 - [Anthropic Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) — Official engineering guide
-- [Claude Opus 4.5 Announcement](https://www.anthropic.com/news/claude-opus-4-5) — November 2024 release details
+- [Claude Opus 4.5 Announcement](https://www.anthropic.com/news/claude-opus-4-5) — November 2025 release details
 - Community discussions: r/cursor (128K+ developers) on CLI tool benefits and real-world usage
 
 ---
