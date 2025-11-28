@@ -15,9 +15,9 @@ As it stands, no one model is 'perfect' (some are better at writing, reasoning, 
 </blockquote>
 ### Global Table Of Contents
 * Home (We are already here!)
-* [Setup & Installation](docs/Setup%20&%20Installation.md) - How to setup and use Claude Code!
-* [Usage & Best Practices](docs/Usage%20&%20Best%20Practices.md) - A glimpse into Claude Code's many features!
-* [Changelog](docs/Changelog.md) - A running update of changes made to the document.
+* [Setup & Installation](setup.md) - How to setup and use Claude Code!
+* [Usage & Best Practices](usage.md) - A glimpse into Claude Code's many features!
+* [Changelog](changelog.md) - A running update of changes made to the document.
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1.5rem 0;">
 
 <div style="background: #f3e5f5; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #9C27B0;">

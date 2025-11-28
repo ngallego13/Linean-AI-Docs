@@ -5,8 +5,8 @@
 </div>
 ---
 ## Table of Contents:
-* [Home](./Linean%20AI%20Development%20Platform%20Proposal.md)
-* [Installation](#installation) 
+* [Home](index.md)
+* [Installation](#installation)
 * [Authentication](#authentication) 
 * [Project Configuration](#project-configuration) 
 * [Optional: Semantic Search](#optional-but-recommended-semantic-search-with-claude-context) 

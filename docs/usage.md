@@ -4,7 +4,7 @@
   <p style="color: rgba(255,255,255,0.9); margin: 0.5rem 0 0 0; font-size: 1.2rem;">Move efficiently with AI-tooling at Linean</p>
 </div>
 ## Table Of Contents
-* [Home](./Linean%20AI%20Development%20Platform%20Proposal.md)
+* [Home](index.md)
 * [Recommended Resources](#recommended-resources)
 
 ### Recommended Resources
